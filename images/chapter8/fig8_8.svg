@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1033.333" height="647.333" viewBox="0, 0, 1033.333, 647.333">
+  <g id="Layer_1">
+    <path d="M0,0 L1033.333,0 L1033.333,647.333 L0,647.333 L0,0 z" fill="#FFFFFF"/>
+    <g>
+      <path d="M250.719,349.167 L685.385,349.167 L685.385,454.5 L250.719,454.5 L250.719,349.167 z" fill="#E6E6E6"/>
+      <path d="M250.719,349.167 L685.385,349.167 L685.385,454.5 L250.719,454.5 L250.719,349.167 z" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M250.719,311.833 L685.385,311.833 L685.385,349.166 L250.719,349.166 L250.719,311.833 z" fill="#FFFFFF"/>
+      <path d="M250.719,311.833 L685.385,311.833 L685.385,349.166 L250.719,349.166 L250.719,311.833 z" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M581.031,311.833 L615.261,311.833 C615.261,311.833 616.455,321.983 615.261,325.565 C614.067,329.147 582.424,329.744 581.031,325.565 C579.837,322.381 581.031,311.833 581.031,311.833 z" fill="#454545"/>
+      <path d="M581.031,311.833 L615.261,311.833 C615.261,311.833 616.455,321.983 615.261,325.565 C614.067,329.147 582.424,329.744 581.031,325.565 C579.837,322.381 581.031,311.833 581.031,311.833 z" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M321.659,311.833 L355.889,311.833 C355.889,311.833 357.083,321.983 355.889,325.565 C354.695,329.147 323.052,329.744 321.659,325.565 C320.465,322.381 321.659,311.833 321.659,311.833 z" fill="#454545"/>
+      <path d="M321.659,311.833 L355.889,311.833 C355.889,311.833 357.083,321.983 355.889,325.565 C354.695,329.147 323.052,329.744 321.659,325.565 C320.465,322.381 321.659,311.833 321.659,311.833 z" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+    </g>
+    <path d="M250.219,454 L684.885,454 L684.885,464.333 L250.219,464.333 L250.219,454 z" fill="#43699F"/>
+    <text transform="matrix(1, 0, 0, 1, 912.607, 448.333)">
+      <tspan x="-107.64" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">N+ substrate</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 902.552, 310.166)">
+      <tspan x="-93.672" y="-13.5" font-family="Avenir-Medium" font-size="36" fill="#656565">N- epitaxial </tspan>
+      <tspan x="-39.33" y="35.5" font-family="Avenir-Medium" font-size="36" fill="#656565">layer</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 735.607, 90.245)">
+      <tspan x="-44.028" y="-16.088" font-family="Avenir-Medium" font-size="36" fill="#656565">Front </tspan>
+      <tspan x="-103.32" y="32.912" font-family="Avenir-Medium" font-size="36" fill="#656565">metallisation</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 109.584, 401.333)">
+      <tspan x="-87.678" y="6.121" font-family="Avenir-Medium" font-size="36" fill="#656565">Guard ring</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 271.607, 581.954)">
+      <tspan x="-104.418" y="-13.5" font-family="Avenir-Medium" font-size="36" fill="#656565">Back contact </tspan>
+      <tspan x="-45.666" y="35.5" font-family="Avenir-Medium" font-size="36" fill="#656565">metal</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 105.109, 269.377)">
+      <tspan x="-39.312" y="-13.5" font-family="Avenir-Medium" font-size="36" fill="#656565">SiO2 </tspan>
+      <tspan x="-90.666" y="35.5" font-family="Avenir-Medium" font-size="36" fill="#656565">passivation</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 311.611, 74)">
+      <tspan x="-71.046" y="-38" font-family="Avenir-Medium" font-size="36" fill="#656565">Schottky </tspan>
+      <tspan x="-54.648" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">barrier </tspan>
+      <tspan x="-45.666" y="60" font-family="Avenir-Medium" font-size="36" fill="#656565">metal</tspan>
+    </text>
+    <g>
+      <path d="M691.5,148.5 L640.928,244.018" fill-opacity="0" stroke="#A3A3A3" stroke-width="4"/>
+      <path d="M640.928,244.018 L638.183,238.943 L636.436,252.502 L646.667,243.435 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="4" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M792.381,445.833 L683.717,417.176" fill-opacity="0" stroke="#A3A3A3" stroke-width="4"/>
+      <path d="M683.717,417.176 L688.035,413.351 L674.434,414.728 L685.587,422.633 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="4" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M165.167,371.591 L299.192,326.304" fill-opacity="0" stroke="#A3A3A3" stroke-width="4"/>
+      <path d="M299.192,326.304 L297.697,331.876 L308.287,323.231 L294.624,322.781 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="4" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M281.897,538.591 L326.3,474.374" fill-opacity="0" stroke="#A3A3A3" stroke-width="4"/>
+      <path d="M326.3,474.374 L328.428,479.736 L331.76,466.478 L320.532,474.277 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="4" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M850.167,311.833 L671.946,327.466" fill-opacity="0" stroke="#A3A3A3" stroke-width="4"/>
+      <path d="M671.946,327.466 L674.714,322.405 L662.382,328.305 L675.553,331.968 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="4" stroke-opacity="1"/>
+    </g>
+    <path d="M630.79,285.484 L630.79,254.269" fill-opacity="0" stroke="#656565" stroke-width="9"/>
+    <path d="M305.644,285.484 L305.644,254.269" fill-opacity="0" stroke="#656565" stroke-width="9"/>
+    <path d="M591.79,303.466 L591.79,276.654" fill-opacity="0" stroke="#656565" stroke-width="9"/>
+    <path d="M344.267,300.87 L344.267,277.254" fill-opacity="0" stroke="#656565" stroke-width="9"/>
+    <path d="M660.39,258.366 L626.3,258.366" fill-opacity="0" stroke="#656565" stroke-width="9"/>
+    <path d="M310.182,255.644 L270.786,255.644" fill-opacity="0" stroke="#656565" stroke-width="9"/>
+    <path d="M626.59,281.166 L595.59,281.166" fill-opacity="0" stroke="#656565" stroke-width="9"/>
+    <path d="M340.021,281.766 L306.33,281.766" fill-opacity="0" stroke="#656565" stroke-width="9"/>
+    <path d="M587.378,299.066 L339.717,299.066" fill-opacity="0" stroke="#656565" stroke-width="9"/>
+    <g>
+      <path d="M250.719,261.166 L250.719,311.833 L338.774,311.833 L338.774,286.148 L300.454,286.148 L300.454,261.166 L250.719,261.166" fill="#B9DFDF"/>
+      <path d="M250.719,261.166 L250.719,311.833 L338.774,311.833 L338.774,286.148 L300.454,286.148 L300.454,261.166 L250.719,261.166" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+    </g>
+    <g>
+      <path d="M685.385,261.166 L685.385,311.833 L597.33,311.833 L597.33,286.148 L635.651,286.148 L635.651,261.166 L685.385,261.166" fill="#B9DFDF"/>
+      <path d="M685.385,261.166 L685.385,311.833 L597.33,311.833 L597.33,286.148 L635.651,286.148 L635.651,261.166 L685.385,261.166" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+    </g>
+    <path d="M338.774,307.333 L597.33,307.333" fill-opacity="0" stroke="#DE787A" stroke-width="8"/>
+    <g>
+      <path d="M321.128,137.12 L414.787,297.319" fill-opacity="0" stroke="#A3A3A3" stroke-width="4"/>
+      <path d="M414.787,297.319 L409.028,296.979 L419.632,305.607 L417.315,292.134 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="4" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M158.048,268.591 L251.686,281.673" fill-opacity="0" stroke="#A3A3A3" stroke-width="4"/>
+      <path d="M251.686,281.673 L247.853,285.984 L261.194,283.001 L249.181,276.476 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="4" stroke-opacity="1"/>
+    </g>
+  </g>
+</svg>
