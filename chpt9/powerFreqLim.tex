@@ -1,0 +1,64 @@
+\begin{frame}
+  \frametitle{Power Frequency Limitations}
+  As the frequency is increased the output power drops mainly due to low impedance of the junction capacitance. The power frequency limitation is due to the:
+  \begin{itemize}
+  \item maximum velocity of charge carriers in a semiconductor($6 \times 10^6$cm/s in Ge of Si).
+  \item the maximum electric field that can be applied to a semiconductor is $2 \times 10^5$V/cm
+  \item the base width determines the maximum current
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \begin{columns}
+
+    \column{0.5\textwidth}
+    Let $V_m$ be the maximum applied voltage and the corresponding current be $I_m$ and if the charge carrier takes $\tau_{ec}$ time to cross the length L of the device, then:
+    \column{0.5\textwidth}
+    \begin{align*}
+      V_m . f_c &= \frac{V_m}{L}. \frac{L}{2\pi\tau_ec}\\
+                &= \frac{E_mV_s}{2\pi}\\
+      \text{where }
+      E_m &= \text{Maximum electric field}\\
+                &= \frac{V_m}{L}\\
+      \text{and }
+    \end{align*}
+    \begin{align*}
+      v_s &= \text{Saturated drift velocity of the carrier}\\
+            &= \frac{L}{\tau_{ec}}
+    \end{align*}
+  \end{columns}
+\end{frame}
+
+\begin{frame}
+  \begin{columns}
+    \column{0.5\textwidth}
+    \begin{align*}
+      X_c &= \frac{1}{\omega_{c}C_{bc}} = \frac{1}{2\pi f_{c}C_{bc}}\\
+      \Rightarrow (I_mX_c).f_c &= \frac{E_mv_s}{2\pi}
+    \end{align*}
+    The max power dissipated across $X_c$ is:
+    \begin{align*}
+      P_m &= I_m^2X_c\\
+      \Rightarrow I_m = \sqrt{\frac{P_m}{X_c}}\\
+      \therefore (P_mX_c)^{\frac{1}{2}}f_c &= \frac{E_mv_s}{2\pi}
+    \end{align*}
+    $f_c = \frac{E_mv_s}{2\pi}.\frac{1}{\sqrt{X_xP_m}}  \Rightarrow f_c \propto \frac{1}{\sqrt{P_m}} $
+    \column{0.5\textwidth}
+    The gain frequency relation is given by:
+    $$(G_m.V_{th}V_{m})^{\frac{1}{2}}.f = \frac{E_mV_s}{2\pi}$$
+    where:
+    \begin{align*}
+      G_m &= \text{maximum available power gain}\\
+      V_{th} &= \frac{kT}{e} \text{ is the thermal voltage}\\
+      k &= \text{Boltzmann constant}\\
+      f &= \text{Frequency of operation}
+    \end{align*}
+  \end{columns}
+\end{frame}
+
+\begin{frame}
+  The input capacitance($C_{in}$)and the emitter diffusion capacitance $C_d$ are related by:
+  $$C_{in} \approx C_d \cong \frac{Q_{m}}{V_{th}} \cong \frac{I_m.\tau_b}{V_{th}}$$
+  The output capacitance is given by:
+  $$C_{out} = C_{bc} = \frac{I_m.\tau_{ec}}{V_m}$$
+\end{frame}
