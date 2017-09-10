@@ -1,0 +1,15 @@
+*.pdf
+./**/*.pdf
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+
+./**/*.aux
+./**/*.log
+./**/*.nav
+./**/*.out
+./**/*.snm
+./**/*.toc
